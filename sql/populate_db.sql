@@ -18,7 +18,7 @@ VALUES (1, 'Mohamad Jordan'),
        (5, 'Abbas Russell');
 
 INSERT INTO project (id, client_id, start_date, finish_date)
-VALUES (1, 1, '2023-01-10', '2023-01-10'),
+VALUES (1, 1, '2021-01-10', '2023-11-30'),
        (2, 1, '2022-11-23', '2023-01-10'),
        (3, 3, '2022-12-17', '2023-06-24'),
        (4, 4, '2018-03-12', '2023-04-01'),
